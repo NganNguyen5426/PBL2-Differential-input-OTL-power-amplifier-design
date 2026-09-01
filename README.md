@@ -18,7 +18,7 @@
 
 👋 **Chào bạn,**
 
-Mình là **Nguyễn Đức Ngân** (thành viên lớp 24DT4). Hiện tại, mình đang là sinh viên năm 2 "hệ cày cuốc" thuộc chuyên ngành Điện tử - Viễn thông tại Đại học Bách Khoa - Đại học Đà Nẵng (DUT). 
+Mình là **Nguyễn Đức Ngân** (thành viên lớp 24DT4). Hiện tại, mình đang là sinh viên năm 2 "hệ cày cuốc" thuộc ngành Điện tử - Viễn thông tại Đại học Bách Khoa - Đại học Đà Nẵng (DUT). 
 
 Với niềm đam mê đặc biệt dành cho các bộ môn điện tử tương tự (**Analog**), mình rất thích việc tính toán linh kiện, căn chỉnh mạch và ngồi soi từng gợn sóng trên máy hiện sóng (Oscilloscope). 
 
