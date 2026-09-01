@@ -2,7 +2,7 @@
 
 <h1 align="center">📘 Mạch Loa OTL Vi Sai - Đồ án PBL2</h1>
 
- *Một nơi lưu trữ mồ hôi nước mắt sau những đêm "cày cuốc" chạy mô phỏng, đóng gói cẩn thận để sau này lôi ra ngắm cho bõ công!* 
+ *Một nơi lưu trữ mồ hôi nước mắt sau những đêm "cày cuốc" chạy mô phỏng, đóng gói cẩn thận để sau này lôi ra ngắm cho bõ công!* 😆
 
 <p>
   <img src="https://img.shields.io/badge/repo%20size-1.5%20MB-blue" alt="Repo Size">
