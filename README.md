@@ -60,7 +60,7 @@ Dự án sử dụng phần mềm **Proteus 8.16** để mô phỏng. Dưới đ
 
 ---
 
-## 🖥️ Sơ đồ nguyên lý toàn mạch (Schematic)**
+## 🖥️ Sơ đồ nguyên lý toàn mạch (Schematic)
 
 *<img width="1631" height="897" alt="image" src="https://github.com/user-attachments/assets/e480a758-46e1-4c92-902a-c7e079e47ff0" />*
 
