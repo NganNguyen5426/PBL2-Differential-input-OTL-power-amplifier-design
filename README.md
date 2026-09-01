@@ -1,3 +1,30 @@
+<div align="center">
+
+<h1 align="center">📘 Mạch Loa OTL Vi Sai - Đồ án PBL2</h1>
+
+> *Một nơi lưu trữ mồ hôi nước mắt sau những đêm "cày cuốc" chạy mô phỏng, đóng gói cẩn thận để sau này lôi ra ngắm cho bõ công!* 😆
+
+<p>
+  <img src="https://img.shields.io/badge/repo%20size-1.5%20MB-blue" alt="Repo Size">
+  <img src="https://img.shields.io/badge/last%20commit-September-green" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Focus-Analog_Circuit-red" alt="Focus">
+</p>
+
+<p>⚙️ <b>Analog</b> &bull; 💻 <b>Simulation</b> &bull; 🎧 <b>Audio Amplifier</b></p>
+
+</div>
+
+👉 *Từ những dòng bias (phân cực) cơ bản nhất — đến khi sóng âm khuếch đại mượt mà không bị "cắt ngọn"* 
+
+👋 **Chào bạn,**
+
+Mình là **Nguyễn Đức Ngân** (thành viên lớp 24DT4). Hiện tại, mình đang là sinh viên năm 2 "hệ cày cuốc" thuộc chuyên ngành Điện tử - Viễn thông tại Đại học Bách Khoa - Đại học Đà Nẵng (DUT). 
+
+Với niềm đam mê đặc biệt dành cho các bộ môn điện tử tương tự (**Analog**), mình rất thích việc tính toán linh kiện, căn chỉnh mạch và ngồi soi từng gợn sóng trên máy hiện sóng (Oscilloscope). 
+
+Mình tạo repo này nhằm mục đích đóng gói toàn bộ tài liệu, bản vẽ Proteus và thông số kỹ thuật của đồ án PBL2. Nói một cách thực tế thì đây là nơi mình sao lưu lại một cột mốc học tập, để thỉnh thoảng rảnh rỗi lôi ra "ngắm" lại thành quả thiết kế phần cứng của chính mình .
+
+---
 # 🎧 Đồ án PBL2: Thiết kế và Mô phỏng Mạch Loa OTL Vi Sai
 
 Kho lưu trữ này chứa các tệp thiết kế và mô phỏng Proteus cho Đồ án Thiết kế mạch khuếch đại âm tần OTL (Output Transformer Less) với đầu vào là tầng vi sai, thuộc chương trình đào tạo ngành Điện tử - Viễn thông, Trường Đại học Bách Khoa - Đại học Đà Nẵng.
@@ -5,7 +32,7 @@ Kho lưu trữ này chứa các tệp thiết kế và mô phỏng Proteus cho �
 ## 👨‍💻 Thông tin thực hiện
 * **Thành viên nhóm:** 
   * Nguyễn Đức Ngân (MSSV: 106240186)
-  * Trần Nguyễn Hoàng Bách
+  * Trần Nguyễn Hoàng Bách (MSSV: 106240161)
 * **Giảng viên hướng dẫn:** TS. Huỳnh Thanh Tùng & ThS. Vũ Vân Thanh
 
 ---
